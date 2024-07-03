@@ -28,4 +28,5 @@ Styling
 HomeScreen:
 ![HomeScreen](https://github.com/Nana-Kay11/rn-assignment6-11091047/assets/143946622/5d2980d1-649a-4207-9def-bb8ef3aa9774)
 CartScreen:
-![CartScreen](https://github.com/Nana-Kay11/rn-assignment6-11091047/assets/143946622/7f960d6d-801c-4a6b-a446-cf4751750695)
+![Cart](https://github.com/Nana-Kay11/rn-assignment6-11091047/assets/143946622/83ee44bd-70d7-43e0-8094-de148f3a18de)
+
